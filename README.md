@@ -1,4 +1,3 @@
-# CashRegisterWindowsApp
+# UI cash register project
 
-This is a Cash register application created in C#.
-The cash register has a working front and back end. 
+Small project of a working cash register. 

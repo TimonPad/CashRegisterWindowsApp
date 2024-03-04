@@ -1,0 +1,51 @@
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe.config
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.pdb
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csprojAssemblyReference.cache
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Form1.resources
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Properties.Resources.resources
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.GenerateResource.cache
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.CoreCompileInputs.cache
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.exe
+C:\Users\Timon\source\repos\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.pdb
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe.config
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.pdb
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csprojAssemblyReference.cache
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Properties.Resources.resources
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Form1.resources
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.GenerateResource.cache
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.CoreCompileInputs.cache
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.exe
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.pdb
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\bin\Debug\Database1.mdf
+C:\Users\premt\Downloads\UIproject-master (2)\UIproject-master\UI Reporting software\UI Reporting software\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe.config
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.exe
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\UI Reporting software.pdb
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Properties.Resources.resources
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI_Reporting_software.Form1.resources
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.exe
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.pdb
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\CsvHelper.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\CsvHelper.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\myUiProject\UIproject\UI Reporting software\UI Reporting software\obj\Debug\UI Reporting software.csproj.CopyComplete
